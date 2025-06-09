@@ -18,9 +18,8 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript)
 ![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat&logo=tailwind-css)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat&logo=next.js)
+
 
 ### 📊 GitHub Stats:
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=MahdiReisEbrahimi&show_icons=true&theme=radical)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MahdiReisEbrahimi&layout=compact&theme=radical)
