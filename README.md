@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mahdi Ebrahimi</h1>
-<h3 align="center">A React/Next developer</h3>
+<h3 align="center">A Front-end developer</h3>
 
-- 💬 Ask me about **Javascript, React.js, Next.js, Tailwind, HTML/CSS**
 - 📫 How to reach me **MhdiEbrahimim@gmail.com**
 
 ### Connect with me:
