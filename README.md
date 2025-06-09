@@ -6,8 +6,12 @@
 
 ### Connect with me:
 <p align="left">
-  <a href="https://linkedin.com/in/mahdi-ebrahimi-403b9a30b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="linkedin" height="30" width="40" /></a>
-  <a href="https://t.me/mehdi_e2" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" alt="telegram" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/mahdi-ebrahimi-403b9a30b" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" alt="linkedin" height="30" width="40" />
+  </a>
+  <a href="https://t.me/mehdi_e2" target="_blank">
+    <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/8/82/Telegram_logo.svg" alt="telegram" height="30" width="40" />
+  </a>
 </p>
 
 ### 🛠️ Languages and Tools:
